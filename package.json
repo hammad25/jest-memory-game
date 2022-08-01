@@ -1,0 +1,22 @@
+{
+  "name": "jest-memory-game",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hammad25/jest-memory-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hammad25/jest-memory-game/issues"
+  },
+  "homepage": "https://github.com/hammad25/jest-memory-game#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
