@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hammad25/jest-memory-game#readme",
   "devDependencies": {
-    "jest": "^28.1.3"
+    "jest": "^28.1.3",
+    "jest-environment-jsdom": "^28.1.3"
   }
 }
